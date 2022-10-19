@@ -1,4 +1,4 @@
-public class sum_of_squares {
+public class SumOfSquares {
     public static void main(String args[])
     {
         int i, sum=0;

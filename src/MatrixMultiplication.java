@@ -1,4 +1,4 @@
-public class Matrix_mul {
+public class MatrixMultiplication {
     public static void main(String args[]) {
         int ar1[][] = {{2, 3, 4}, {5, 6, 7}, {9, 8, 7}};
         int ar2[][] = {{1, 2, 3}, {2, 4, 5}, {5, 6, 7}};

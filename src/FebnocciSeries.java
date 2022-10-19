@@ -1,4 +1,4 @@
-public class Febo_series {
+public class FebnocciSeries {
     public static void main(String Arg[])
     {
         int a,b,c,i,n=10;

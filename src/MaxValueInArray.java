@@ -1,4 +1,4 @@
-public class arrays_ex {
+public class MaxValueInArray {
 public static void main(String args[])
 {
     int ar[][]={{2,3,4},{5,6,7},{9,8,7}};

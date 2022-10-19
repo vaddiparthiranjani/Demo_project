@@ -1,4 +1,4 @@
-public class pallindrom_string {
+public class StringPallindrom {
     public static void main(String args[]){
 
             String str = "Ranjani", rev_Str = "";

@@ -1,4 +1,4 @@
-public class if_example {
+public class LargestNumber {
 
     public static void main(String Args[])
 {

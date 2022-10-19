@@ -1,4 +1,4 @@
-public class M_power_n {
+public class MPowerN {
     public static void main(String arg[])
     {
         int m=4,n=3,i,pow=1;
